@@ -1,0 +1,11 @@
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.deps.json
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.json
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.dev.json
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.dll
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.pdb
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.csprojAssemblyReference.cache
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.csproj.CoreCompileInputs.cache
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.AssemblyInfoInputs.cache
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.AssemblyInfo.cs
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.dll
+C:\Workspace\ECUtbildning\BankDawid1988\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.pdb
